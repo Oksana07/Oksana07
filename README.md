@@ -1,4 +1,4 @@
-[![Header](https://github.com/Oksana07/Oksana07/blob/main/acsets/8716ec40c81ddfe455e6b72ebc9c5949.jpg)](https://github.com/Oksana07/Oksana07/blob/main/acsets/8716ec40c81ddfe455e6b72ebc9c5949.jpg)
+<!-- [![Header](https://github.com/Oksana07/Oksana07/blob/main/acsets/8716ec40c81ddfe455e6b72ebc9c5949.jpg)](https://github.com/Oksana07/Oksana07/blob/main/acsets/8716ec40c81ddfe455e6b72ebc9c5949.jpg) -->
 
 In the process of studing Full-Stack Developer
 
