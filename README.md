@@ -1,4 +1,4 @@
-[![Header](https://github.com/Oksana07/Oksana07/blob/main/acsets/zoom_sized.png)](https://github.com/Oksana07/Oksana07/blob/main/acsets/zoom_sized.png)
+[![Header](https://github.com/Oksana07/Oksana07/blob/main/acsets/zoom_sized.png height="150")](https://github.com/Oksana07/Oksana07/blob/main/acsets/zoom_sized.png)
 Hi there 👋
 Oksana07 ✨
 
