@@ -3,9 +3,9 @@
 In the process of studing Full-Stack Developer
 
 Hi 👋
-<>Hi there I'm Oksana Petruchyn </>
+Hi there I'm Oksana Petruchyn
 
-<>✨I am currently studying Academy GoIt courses</>
+✨I am currently studying Academy GoIt courses
 
 ### Lenguages and Tols
 
@@ -17,6 +17,6 @@ Hi 👋
 
 📫 How to contact me:
 
-linkedin.com/in/oksana-petrushyn-b72b1b217
+https://www.linkedin.com/in/oksana-petrushyn-b72b1b217/
 
 petryshyn.v.oksana@gmail.com
