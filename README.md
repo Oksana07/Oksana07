@@ -1,6 +1,9 @@
-[![Header](https://github.com/Oksana07/Oksana07/blob/main/acsets/zoom_sized.png)](https://github.com/Oksana07/Oksana07/blob/main/acsets/zoom_sized.png)height="150"
-Hi there 👋
-Oksana07 ✨
+[![Header](https://github.com/Oksana07/Oksana07/blob/main/acsets/zoom_sized.png)](https://github.com/Oksana07/Oksana07/blob/main/acsets/zoom_sized.png)
+
+In the process of studing Full-Stack Developer
+
+Hi there I'm Oksana Petruchyn 👋
+✨I study at the academy GoIt
 
 Hi 👋
 
@@ -15,4 +18,6 @@ Hi 👋
 ![React](https://img.shields.io/badge/React-0000FF?style=flat-square&logo=appveyor)
 
 -📫 How to contact me:
-linkedin.com/in/oksana-petrushyn-b72b1b217
+
+<li>linkedin.com/in/oksana-petrushyn-b72b1b217 </li>
+<li>petryshyn.v.oksana@gmail.com</li>
