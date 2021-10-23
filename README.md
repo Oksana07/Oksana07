@@ -2,7 +2,7 @@
 
 In the process of studing Full-Stack Developer
 
-Hi 👋 there I'm Oksana Petruchyn
+Hi 👋 I'm Petryshun Oksana
 
 ✨I am currently studying Academy GoIt courses
 
