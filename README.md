@@ -6,7 +6,38 @@ Hi 👋 I'm Petryshun Oksana
 
 ✨I am currently studying Academy GoIt courses
 
-### Lenguages and Tols
+My stack and tools
+JavaScript
+
+JavaScript
+
+React
+
+Node.js
+
+PostgreSQL
+
+MongoDB
+
+HTML5
+
+CSS3
+
+Sass
+
+MySQL
+
+MySQL
+
+MySQL
+
+Git
+
+GitHub
+
+Terminal
+
+Visual Studio Code
 
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=appveyor)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=appveyor)
