@@ -10,7 +10,6 @@ My stack and tools
 
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=appveyor)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=appveyor)
-![CSS](https://img.shields.io/badge/CSS-000000?style=flat-square&logo=appveyor)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=appveyor)
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=appveyor)
 ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-000000?style=flat-square&logo=appveyor)
