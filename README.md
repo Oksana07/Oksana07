@@ -44,7 +44,7 @@ Visual Studio Code
 ![CSS](https://img.shields.io/badge/CSS-000000?style=flat-square&logo=appveyor)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=appveyor)
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=appveyor)
-![Visual Studio Code](https://img.shields.io/badge/Visual Studio Code-000000?style=flat-square&logo=appveyor)
+![VisualStudioCode](https://img.shields.io/badge/Visual StudioCode-000000?style=flat-square&logo=appveyor)
 
 
 📫 How to contact me:
